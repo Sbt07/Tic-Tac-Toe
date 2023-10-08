@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Sbt07/Tic-Tac-Toe/static/css/main.068a3bb7.css",
-    "main.js": "/Sbt07/Tic-Tac-Toe/static/js/main.6c26e2a9.js",
-    "static/js/787.6b0bed1b.chunk.js": "/Sbt07/Tic-Tac-Toe/static/js/787.6b0bed1b.chunk.js",
-    "static/media/game_over.wav": "/Sbt07/Tic-Tac-Toe/static/media/game_over.3894918f7585f9300350.wav",
-    "static/media/click.wav": "/Sbt07/Tic-Tac-Toe/static/media/click.450b31dca5ff2247781d.wav",
-    "index.html": "/Sbt07/Tic-Tac-Toe/index.html",
-    "main.068a3bb7.css.map": "/Sbt07/Tic-Tac-Toe/static/css/main.068a3bb7.css.map",
-    "main.6c26e2a9.js.map": "/Sbt07/Tic-Tac-Toe/static/js/main.6c26e2a9.js.map",
-    "787.6b0bed1b.chunk.js.map": "/Sbt07/Tic-Tac-Toe/static/js/787.6b0bed1b.chunk.js.map"
+    "main.css": "/Tic-Tac-Toe/static/css/main.068a3bb7.css",
+    "main.js": "/Tic-Tac-Toe/static/js/main.11b89b9e.js",
+    "static/js/787.6b0bed1b.chunk.js": "/Tic-Tac-Toe/static/js/787.6b0bed1b.chunk.js",
+    "static/media/game_over.wav": "/Tic-Tac-Toe/static/media/game_over.3894918f7585f9300350.wav",
+    "static/media/click.wav": "/Tic-Tac-Toe/static/media/click.450b31dca5ff2247781d.wav",
+    "index.html": "/Tic-Tac-Toe/index.html",
+    "main.068a3bb7.css.map": "/Tic-Tac-Toe/static/css/main.068a3bb7.css.map",
+    "main.11b89b9e.js.map": "/Tic-Tac-Toe/static/js/main.11b89b9e.js.map",
+    "787.6b0bed1b.chunk.js.map": "/Tic-Tac-Toe/static/js/787.6b0bed1b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.068a3bb7.css",
-    "static/js/main.6c26e2a9.js"
+    "static/js/main.11b89b9e.js"
   ]
 }
